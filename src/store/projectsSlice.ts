@@ -1,4 +1,3 @@
-// projectsSlice.ts
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 interface Project {
